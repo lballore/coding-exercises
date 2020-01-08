@@ -22,7 +22,7 @@ A simple memory card game in JavaScript.
 **Year:** 2008
 
 
-### d-detector
+### ddetector
 
 A near-duplicate image detector, based on ORB (Oriented FAST and Rotated BRIEF) algorithm.
 
